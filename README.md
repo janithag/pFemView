@@ -1,6 +1,7 @@
 # pFemView
 An open-source C++ library to visualize p-hierarchical basis finite element (p-FEM) solutions on the scientific visualization application ParaView.
-Author: Janitha Gunatilake
+
+  Author: Janitha Gunatilake, developed in 2023.
 
 ParaView:
 
