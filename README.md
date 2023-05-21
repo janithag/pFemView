@@ -14,11 +14,11 @@ If you use pFemView in your research, please cite it! In BibTeX format, the foll
   @manual{pfemview,
     key     = {pFemView},
     author  = {Janitha Gunatilake},
-    title   = {pFemView: a C++ library for visualizing p-FEM solutions on ParaView (version 1.0.0)},
-    note    = {{\tt [https://github.com/janithag/pFemView}},
+    title   = {pFemView: a C++ library for visualizing p-FEM solutions on ParaView},
+    note    = {https://github.com/janithag/pFemView},
     year    = {2023},
   }
 
 This might render as:
 
-    The mpmath development team. mpmath: a Python library for arbitrary-precision floating-point arithmetic (version 1.3.0), 2023. http://mpmath.org/.
+    Janitha Gunatilake. pFemView: a P C++ library for visualizing p-FEM solutions on ParaView, 2023. https://github.com/janithag/pFemView.
