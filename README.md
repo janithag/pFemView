@@ -10,7 +10,11 @@ Here, the input: hierarchical vtk file and the output is a .vtk file that can be
 
 **Citing pFemView**
 
-If you use pFemView in your research, please cite it! In BibTeX format, the following entry can be used:
+If you use pFemView in your research, please cite it.  
+
+    Janitha Gunatilake. pFemView: a P C++ library for visualizing p-FEM solutions on ParaView, 2023. https://github.com/janithag/pFemView.
+    
+Following is the BibTeX format:
 
   @manual{pfemview,
     key     = {pFemView},
@@ -20,6 +24,4 @@ If you use pFemView in your research, please cite it! In BibTeX format, the foll
     year    = {2023},
   }
 
-This might render as:
 
-    Janitha Gunatilake. pFemView: a P C++ library for visualizing p-FEM solutions on ParaView, 2023. https://github.com/janithag/pFemView.
