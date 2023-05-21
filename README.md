@@ -8,7 +8,8 @@ ParaView:
 As p-FEM solutions does not directly match the input file format of VTK files, this library brideges that gap.
 Here, the input: hierarchical vtk file and the output is a .vtk file that can be read in ParaView.
 
-Citing the package:
+**Citing pFemView**
+
 If you use pFemView in your research, please cite it! In BibTeX format, the following entry can be used:
 
   @manual{pfemview,
