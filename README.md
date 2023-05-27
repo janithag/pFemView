@@ -10,6 +10,8 @@ generates a VTK file that can be read in ParaView.
 
 **Documentation**
 
+**Licence**
+
 **Citing pFemView**
 
 If you use pFemView in your research, please cite it.  
