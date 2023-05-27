@@ -11,15 +11,15 @@ Here, the input: hierarchical vtk file and the output is a .vtk file that can be
 **Citing pFemView**
 
 If you use pFemView in your research, please cite it.  
-
+```
 Janitha Gunatilake. *pFemView*: https://github.com/janithag/pFemView., 2023. 
-
+```
 Following is the BibTeX format:
 ```
   @manual{pfemview,
     key     = {pFemView},
     author  = {Janitha Gunatilake},
-    title   = {pFemView: a C++ library for visualizing p-FEM solutions on ParaView},
+    title   = {pFemView},
     note    = {https://github.com/janithag/pFemView},
     year    = {2023},
   }
