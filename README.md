@@ -1,11 +1,11 @@
 # pFemView
-An open-source C++ library to visualize p-hierarchical basis finite element (p-FEM) solutions on the scientific visualization application ParaView.
 
-  Author: Janitha Gunatilake, developed in 2023.
 
-ParaView:
+Author: Janitha Gunatilake, developed in 2023.
 
-As p-FEM solutions does not directly match the input file format of VTK files, this library brideges that gap.
+pFemView is an open-source C++ library to visualize p-hierarchical basis finite element (p-FEM) solutions on the scientific visualization application ParaView.
+
+As p-FEM solutions does not directly support the vtk file forma in ParaView, this library brideges that gap.
 Here, the input: hierarchical vtk file and the output is a .vtk file that can be read in ParaView.
 
 **Citing pFemView**
