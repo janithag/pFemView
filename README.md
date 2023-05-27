@@ -16,7 +16,6 @@ If you use pFemView in your research, please cite it.
     
 Following is the BibTeX format:
 ```
-{
   @manual{pfemview,
     key     = {pFemView},
     author  = {Janitha Gunatilake},
@@ -24,6 +23,5 @@ Following is the BibTeX format:
     note    = {https://github.com/janithag/pFemView},
     year    = {2023},
   }
-}
 ```
 
