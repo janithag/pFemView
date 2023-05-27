@@ -15,7 +15,8 @@ If you use pFemView in your research, please cite it.
     Janitha Gunatilake. pFemView: a C++ library for visualizing p-FEM solutions on ParaView, 2023. https://github.com/janithag/pFemView.
     
 Following is the BibTeX format:
-
+```
+{
   @manual{pfemview,
     key     = {pFemView},
     author  = {Janitha Gunatilake},
@@ -23,5 +24,6 @@ Following is the BibTeX format:
     note    = {https://github.com/janithag/pFemView},
     year    = {2023},
   }
-
+}
+```
 
