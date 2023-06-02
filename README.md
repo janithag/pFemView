@@ -10,11 +10,11 @@ generates a VTK file that could be input to ParaView.
 
 **Documentation**
 
-The documentation is found here.
+The documentation is found in the *docs* directory.
 
 **Licence**
 
-pFemView uses an LGPL licence https://github.com/janithag/pFemView/blob/main/LICENSE
+pFemView uses an LGPL licencE.
 
 **Citing pFemView**
 
