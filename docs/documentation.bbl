@@ -1,0 +1,29 @@
+\begin{thebibliography}{1}
+
+\bibitem{parabook}
+J.~Ahrens, B.~Geveci, and C.~Law.
+\newblock Paraview: An end-user tool for large-data visualization.
+\newblock In {\em The Visualization Handbook}, 2005.
+
+\bibitem{gunatilake2014}
+J.~Gunatilake.
+\newblock {\em Hierarchical bases and a multilevel finite element solver}.
+\newblock PhD thesis, Texas Tech University, 2014.
+
+\bibitem{jg2022}
+J.~Gunatilake.
+\newblock An improved multigrid solver for the p-hierarchical basis finite
+  element method using a space decomposition smoother.
+\newblock {\em Computers and Mathematics with Applications}, 124:52--62, 2022.
+
+\bibitem{vtkBook}
+Will Schroeder, Ken Martin, and Bill Lorensen.
+\newblock {\em The Visualization Toolkit (4th ed.)}.
+\newblock Kitware, 2006.
+
+\bibitem{sb}
+B.~Szab\'{o} and I.~Babu\v{s}ka.
+\newblock {\em Finite Element Analysis}.
+\newblock John Wiley \& Sons, Inc., 1991.
+
+\end{thebibliography}
