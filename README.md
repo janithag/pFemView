@@ -14,7 +14,7 @@ The documentation is found in the *docs* directory.
 
 **Licence**
 
-pFemView uses an LGPL licencE.
+pFemView uses an LGPL licence.
 
 **Citing pFemView**
 
