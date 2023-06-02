@@ -14,7 +14,7 @@ The documentation is found here.
 
 **Licence**
 
-pFemView uses a GPL licence.
+pFemView uses an LGPL licence.
 
 **Citing pFemView**
 
